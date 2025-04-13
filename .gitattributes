@@ -1,1 +1,2 @@
 bloom-hindi-medqa-qlora.zip filter=lfs diff=lfs merge=lfs -text
+indicqa_hi_1000_qa.csv filter=lfs diff=lfs merge=lfs -text
